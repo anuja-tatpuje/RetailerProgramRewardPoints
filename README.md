@@ -10,7 +10,7 @@ Command -
 java -jar <JAR_FILE_NAME>
 
 API call 
-http://localhost:8080/rewards/calculate-rewards/<customerId>/<amount>
+http://localhost:8080/rewards/calculate-rewards/{customerId}/{amount}
   
 
   
